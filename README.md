@@ -199,9 +199,6 @@ Displayed: "MyGmail@2024!"
 
 ---
 
-## 🏆 Congratulations!
-
-You now have a **production-ready, secure password manager** built with Java! 
 
 **Key Benefits:**
 - ✅ **Zero external dependencies** 
@@ -214,5 +211,6 @@ You now have a **production-ready, secure password manager** built with Java!
 1. Run `run.bat` (Windows) or `./run.sh` (Linux/Mac)
 2. Open `http://localhost:3000`
 3. Create your account and start securing your passwords!
+
 
 **Happy password managing! 🔐** 

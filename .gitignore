@@ -1,0 +1,33 @@
+# Compiled Java classes
+*.class
+
+# Java packages
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Data directory (contains user passwords - keep private)
+data/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build directories
+target/
+build/ 
